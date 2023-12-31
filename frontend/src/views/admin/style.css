@@ -1,0 +1,82 @@
+
+  .navbar {
+    background-color: #2f2f2f;
+  }
+
+  .navbar-header {
+      text-align: center;
+      padding: 15px;
+  }
+  
+  .user-dropdown {
+  margin-right: 40px; 
+  }
+
+.navbar-brand-posisi {
+  color: #fff;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+  .user-info {
+    color: #000;
+    background-color: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 5px;
+  }
+
+  .sidebar {
+    background-color: #2f2f2f;
+    padding: 20px;
+    height: 100vh;
+  }
+
+  .sidebar a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .sidebar a:hover {
+    color: #ffcc00;
+  }
+  .breadcrumb {
+      color: #000000; 
+      padding: 10px;
+  }
+
+.breadcrumb a {
+  color: #000000; 
+}
+.bold-text {
+  font-weight: bold;
+}
+.btn {
+  font-size: 14px;
+  padding: 8px 10px; 
+  margin-right: 10px;
+}
+
+.btn-detail {
+  background-color: blue;
+  color: white;
+}
+
+.btn-edit {
+  background-color: orange; 
+  color: white;
+}
+
+.btn-hapus {
+  background-color: red;
+  color: white;
+}
+.btn-success {
+  margin-left: 1140px;
+  color: rgb(0, 0, 0);
+}
+.btn-edit {
+  background-color: orange;
+  color: white;
+}
